@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:52:59 CST 2020
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1608259141210
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608259146034
+https\://repo.springsource.org/release/.error=
+https\://maven.scm-manager.org/nexus/content/repositories/releases/.lastUpdated=1608259144647
+https\://repo.springsource.org/release/.lastUpdated=1608259129829
+https\://maven.aliyun.com/repository/public/.lastUpdated=1608259979970
+http\://maven.cubrid.org/.error=
+http\://maven.cubrid.org/.lastUpdated=1608259141406
+https\://maven.scm-manager.org/nexus/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.error=

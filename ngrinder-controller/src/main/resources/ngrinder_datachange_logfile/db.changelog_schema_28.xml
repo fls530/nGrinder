@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+				   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
+	<changeSet author="ngrinder.3.4.4" id="28" dbms="cubrid, h2">
+		<modifyDataType tableName="PERF_TEST" columnName="errorRate" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="tpsStd" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="tpsVix" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="minRT" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="fiftyMeanTime" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="eightyMeanTime" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="ninetyMeanTime" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="ninetyFiveMeanTime" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="ninetyNineMeanTime" newDataType="double"/>
+		<modifyDataType tableName="PERF_TEST" columnName="maxRT" newDataType="double"/>
+	</changeSet>
+</databaseChangeLog>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cubrid</groupId>
+  <artifactId>cubrid-jdbc</artifactId>
+  <version>8.4.1.2032</version>
+  <name>CUBRID JDBC Connector</name>
+  <description>CUBRID JDBC Connector is an API that allows users to connect to CUBRID database within applications whitten in Java.</description>
+  <url>http://www.cubrid.org/wiki_apis/entry/cubrid-jdbc-driver</url>
+  <licenses>
+    <license>
+      <name>BSD License</name>
+      <url>http://www.cubrid.org/wiki_apis/entry/cubrid-jdbc-driver</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>cubrid</id>
+      <name>Esen Sagynov</name>
+      <email>esen.sagynov@nhn.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:svn:http://dev.naver.com/scm/viewvc.php/branches/RB-8.4.1/src/jdbc/cubrid/jdbc/driver/?root=cubrid</connection>
+    <url>http://dev.naver.com/scm/viewvc.php/branches/RB-8.4.1/src/jdbc/cubrid/jdbc/driver/?root=cubrid</url>
+  </scm>
+  <repositories>
+    <repository>
+      <id>clojars.org</id>
+      <url>http://clojars.org/repo/</url>
+    </repository>
+  </repositories>
+</project>

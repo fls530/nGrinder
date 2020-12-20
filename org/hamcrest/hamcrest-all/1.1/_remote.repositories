@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:52:57 CST 2020
+hamcrest-all-1.1.pom>nexus-aliyun=
+hamcrest-all-1.1.jar>nexus-aliyun=
+hamcrest-all-1.1.pom>central=

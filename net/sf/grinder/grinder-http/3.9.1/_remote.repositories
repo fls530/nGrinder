@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:52:57 CST 2020
+grinder-http-3.9.1.pom>central=
+grinder-http-3.9.1.jar>nexus-aliyun=
+grinder-http-3.9.1.pom>nexus-aliyun=

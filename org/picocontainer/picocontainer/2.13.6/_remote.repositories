@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:52:57 CST 2020
+picocontainer-2.13.6.pom>central=
+picocontainer-2.13.6.pom>nexus-aliyun=
+picocontainer-2.13.6.jar>nexus-aliyun=

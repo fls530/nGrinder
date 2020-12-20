@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:52:59 CST 2020
+fest-assert-1.4.pom>central=
+fest-assert-1.4.pom>nexus-aliyun=
+fest-assert-1.4.jar>nexus-aliyun=
